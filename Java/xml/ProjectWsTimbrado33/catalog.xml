@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://pruebas.facturaselectronicascfdi.com/WsTimbrado33.asmx?wsdl" uri="xml-resources/web-service-references/WsTimbrado33/wsdl/pruebas.facturaselectronicascfdi.com/WsTimbrado33.asmx.wsdl"/>
+    <system systemId="http://pruebas.facturaselectronicascfdi.com/WsCancelar33.asmx?wsdl" uri="xml-resources/web-service-references/WsCancelar33/wsdl/pruebas.facturaselectronicascfdi.com/WsCancelar33.asmx.wsdl"/>
+</catalog>

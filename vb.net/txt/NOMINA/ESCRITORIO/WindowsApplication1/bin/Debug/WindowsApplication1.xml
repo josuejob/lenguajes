@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication1
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33">
+<remarks/>
+</member>
+<member name="M:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33.#ctor">
+<remarks/>
+</member>
+<member name="E:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33.TimbrarPorTexto33Completed">
+<remarks/>
+</member>
+<member name="E:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33.SellarTimbrarPorTexto33Completed">
+<remarks/>
+</member>
+<member name="M:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33.TimbrarPorTexto33(System.String,System.String,System.String@,System.String)">
+<remarks/>
+</member>
+<member name="M:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33.TimbrarPorTexto33Async(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33.TimbrarPorTexto33Async(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33.SellarTimbrarPorTexto33(System.String,System.String,System.String@,System.String,System.Byte[],System.Byte[],System.String)">
+<remarks/>
+</member>
+<member name="M:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33.SellarTimbrarPorTexto33Async(System.String,System.String,System.String,System.String,System.Byte[],System.Byte[],System.String)">
+<remarks/>
+</member>
+<member name="M:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33.SellarTimbrarPorTexto33Async(System.String,System.String,System.String,System.String,System.Byte[],System.Byte[],System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:WindowsApplication1.WSTimbradoTexto.wsTimbradoTexto33.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:WindowsApplication1.WSTimbradoTexto.resultado33">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.sello">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.errores">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.xmlSellado">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.acuse">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.arregloAcuse">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.cadenaOriginal">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.fechaHoraTimbrado">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.fechaHoraTimbradoSpecified">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.fechaHoraTimbradoSpecified1">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.folioUUID">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.PDF">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.selloDigitalEmisor">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.selloDigitalTimbreSAT">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.resultado33.XML">
+<remarks/>
+</member>
+<member name="T:WindowsApplication1.WSTimbradoTexto.TimbrarPorTexto33CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:WindowsApplication1.WSTimbradoTexto.TimbrarPorTexto33CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.TimbrarPorTexto33CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.TimbrarPorTexto33CompletedEventArgs.Proceso">
+<remarks/>
+</member>
+<member name="T:WindowsApplication1.WSTimbradoTexto.SellarTimbrarPorTexto33CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:WindowsApplication1.WSTimbradoTexto.SellarTimbrarPorTexto33CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.SellarTimbrarPorTexto33CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:WindowsApplication1.WSTimbradoTexto.SellarTimbrarPorTexto33CompletedEventArgs.Proceso">
+<remarks/>
+</member>
+</members>
+</doc>

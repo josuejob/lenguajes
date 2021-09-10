@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="https://sistema.facturaselectronicascfdi.com/wsFechaHora.asmx?disco" filename="wsFechaHora.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://sistema.facturaselectronicascfdi.com/wsFechaHora.asmx?wsdl" filename="wsFechaHora.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

@@ -1,0 +1,3 @@
+Revisar si estas 2 DLL se encuentran registradas msxml4.dll y msxml4r.dll
+Si no se han refistrado, registrarlas con: regsvr32 "C:ruta  donde se pegaran"
+ser recomineda pegar en: C:\Windows\SysWOW64\

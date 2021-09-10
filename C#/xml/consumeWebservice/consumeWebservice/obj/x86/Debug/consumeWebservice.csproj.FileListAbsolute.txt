@@ -1,0 +1,90 @@
+C:\Users\job\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\job\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe
+C:\Users\job\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.pdb
+C:\Users\job\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\job\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\job\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csproj.GenerateResource.Cache
+C:\Users\job\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\job\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\job\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csprojResolveAssemblyReference.cache
+C:\Users\jobjosue\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\jobjosue\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\jobjosue\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\jobjosue\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csprojResolveAssemblyReference.cache
+C:\Users\jobjosue\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\jobjosue\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jobjosue\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csproj.GenerateResource.Cache
+C:\Users\jobjosue\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe
+C:\Users\jobjosue\Documents\Visual Studio 2010\Projects\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.pdb
+D:\portafolio_proyectos\liberados\Cajas\HERENCIA RURAL\archivos\CFDI\WEBSERVICE\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+D:\portafolio_proyectos\liberados\Cajas\HERENCIA RURAL\archivos\CFDI\WEBSERVICE\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+D:\portafolio_proyectos\liberados\Cajas\HERENCIA RURAL\archivos\CFDI\WEBSERVICE\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csproj.GenerateResource.Cache
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.pdb
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csprojResolveAssemblyReference.cache
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\Guía Timbrado XML v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\Guía Timbrado XML v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\Guía Timbrado XML v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\Guía Timbrado XML v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\Guía Timbrado XML v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\Guía Timbrado XML v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\Guía Timbrado XML v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\Guía Timbrado XML v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\Guía Timbrado XML v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\TIMBRADO 3.3\Guía Timbrado archivo XML factura v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\TIMBRADO 3.3\Guía Timbrado archivo XML factura v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Desktop\CFDI\CLIENTES\GS\cfdi 3.3\TIMBRADO 3.3\Guía Timbrado archivo XML factura v3.3\C# .NET\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+G:\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+G:\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+G:\WEBSERVICE\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\ventas4\Desktop\Emmanuel\Desarollos\WEBSERVICE 3.3 Kit de Desarrollo\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\ventas4\Desktop\Emmanuel\Desarollos\WEBSERVICE 3.3 Kit de Desarrollo\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\ventas4\Desktop\Emmanuel\Desarollos\WEBSERVICE 3.3 Kit de Desarrollo\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb
+C:\Users\ventas4\Desktop\Emmanuel\Desarollos\WEBSERVICE 3.3 Kit de Desarrollo\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csprojResolveAssemblyReference.cache
+C:\Users\ventas4\Desktop\Emmanuel\Desarollos\WEBSERVICE 3.3 Kit de Desarrollo\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ventas4\Desktop\Emmanuel\Desarollos\WEBSERVICE 3.3 Kit de Desarrollo\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ventas4\Desktop\Emmanuel\Desarollos\WEBSERVICE 3.3 Kit de Desarrollo\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.csproj.GenerateResource.Cache
+C:\Users\ventas4\Desktop\Emmanuel\Desarollos\WEBSERVICE 3.3 Kit de Desarrollo\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe
+C:\Users\ventas4\Desktop\Emmanuel\Desarollos\WEBSERVICE 3.3 Kit de Desarrollo\timbrado desde xml\ClienteWebServiceC#ejemplo\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.pdb
+C:\Users\USUARIO\Desktop\CFDI\OPERS\TIM\3.3\ERP\WS\C#\xml\consumeWebservice\consumeWebservice\bin\Debug\consumeWebservice.exe.config
+C:\Users\USUARIO\Desktop\CFDI\OPERS\TIM\3.3\ERP\WS\C#\xml\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERS\TIM\3.3\ERP\WS\C#\xml\consumeWebservice\consumeWebservice\obj\x86\Debug\consumeWebservice.pdb

@@ -1,0 +1,179 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebApplication1
+</name>
+</assembly>
+<members>
+<member name="F:WebApplication1.Client._form1">
+<summary>
+form1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebApplication1.Client._Label1">
+<summary>
+Label1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebApplication1.Client._btnNnaTexto">
+<summary>
+btnNnaTexto control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:WebApplication1.Client._TextBox1">
+<summary>
+TextBox1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="T:WebApplication1.My.MyWebExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:WebApplication1.My.MyWebExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:WebApplication1.My.MyWebExtension.User">
+ <summary>
+ Returns information for the current Web user.
+ </summary>
+</member>
+<member name="P:WebApplication1.My.MyWebExtension.Request">
+ <summary>
+ Returns Request object.
+ </summary>
+</member>
+<member name="P:WebApplication1.My.MyWebExtension.Response">
+ <summary>
+ Returns Response object.
+ </summary>
+</member>
+<member name="P:WebApplication1.My.MyWebExtension.Log">
+ <summary>
+ Returns the Asp log object.
+ </summary>
+</member>
+<member name="T:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33">
+<remarks/>
+</member>
+<member name="M:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33.#ctor">
+<remarks/>
+</member>
+<member name="E:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33.TimbrarPorTexto33Completed">
+<remarks/>
+</member>
+<member name="E:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33.SellarTimbrarPorTexto33Completed">
+<remarks/>
+</member>
+<member name="M:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33.TimbrarPorTexto33(System.String,System.String,System.String@,System.String)">
+<remarks/>
+</member>
+<member name="M:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33.TimbrarPorTexto33Async(System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33.TimbrarPorTexto33Async(System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33.SellarTimbrarPorTexto33(System.String,System.String,System.String@,System.String,System.Byte[],System.Byte[],System.String)">
+<remarks/>
+</member>
+<member name="M:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33.SellarTimbrarPorTexto33Async(System.String,System.String,System.String,System.String,System.Byte[],System.Byte[],System.String)">
+<remarks/>
+</member>
+<member name="M:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33.SellarTimbrarPorTexto33Async(System.String,System.String,System.String,System.String,System.Byte[],System.Byte[],System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:WebApplication1.WSTimbradoTexto.wsTimbradoTexto33.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:WebApplication1.WSTimbradoTexto.resultado33">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.sello">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.errores">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.xmlSellado">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.acuse">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.arregloAcuse">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.cadenaOriginal">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.fechaHoraTimbrado">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.fechaHoraTimbradoSpecified">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.fechaHoraTimbradoSpecified1">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.folioUUID">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.PDF">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.selloDigitalEmisor">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.selloDigitalTimbreSAT">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.resultado33.XML">
+<remarks/>
+</member>
+<member name="T:WebApplication1.WSTimbradoTexto.TimbrarPorTexto33CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:WebApplication1.WSTimbradoTexto.TimbrarPorTexto33CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.TimbrarPorTexto33CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.TimbrarPorTexto33CompletedEventArgs.Proceso">
+<remarks/>
+</member>
+<member name="T:WebApplication1.WSTimbradoTexto.SellarTimbrarPorTexto33CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:WebApplication1.WSTimbradoTexto.SellarTimbrarPorTexto33CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.SellarTimbrarPorTexto33CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="P:WebApplication1.WSTimbradoTexto.SellarTimbrarPorTexto33CompletedEventArgs.Proceso">
+<remarks/>
+</member>
+</members>
+</doc>

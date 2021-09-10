@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://pruebas.facturaselectronicascfdi.com/wsTimbrado33.asmx?wsdl" filename="wsTimbrado33.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://pruebas.facturaselectronicascfdi.com/wsTimbrado33.asmx?disco" filename="wsTimbrado33.disco" />
+  </Results>
+</DiscoveryClientResultsFile>

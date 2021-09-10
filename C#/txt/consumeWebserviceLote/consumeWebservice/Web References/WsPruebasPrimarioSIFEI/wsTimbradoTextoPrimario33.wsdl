@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="www.facturaselectronicascfdi.com" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="www.facturaselectronicascfdi.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="www.facturaselectronicascfdi.com">
+      <s:element name="TimbrarPorTextoPrimario33">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="correo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pass" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Proceso" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contenidoArchivo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TimbrarPorTextoPrimario33Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TimbrarPorTextoPrimario33Result" type="tns:resultadoprimario33" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="resultadoprimario33">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="sello" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="errores" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="xmlSellado" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="acuse" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="arregloAcuse" type="tns:ArrayOfBase64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="cadenaOriginal" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="fechaHoraTimbrado" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="fechaHoraTimbradoSpecified" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="folioUUID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PDF" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="selloDigitalEmisor" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="selloDigitalTimbreSAT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:base64Binary" />
+          <s:element minOccurs="1" maxOccurs="1" name="IdTimbrado" type="s:int" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfBase64Binary">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="base64Binary" nillable="true" type="s:base64Binary" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SellarTimbrarPorTextoPrimario33">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="correo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pass" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Proceso" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contenidoArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cerFile" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="keyFile" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="passCer" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SellarTimbrarPorTextoPrimario33Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SellarTimbrarPorTextoPrimario33Result" type="tns:resultadoprimario33" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TimbrarPorLoteTextoPrimario33">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="correo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pass" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Proceso" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Lote" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TimbrarPorLoteTextoPrimario33Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TimbrarPorLoteTextoPrimario33Result" type="tns:resultadoloteprimario33" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="resultadoloteprimario33">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Errores" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Status" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="InfoTimbrado" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Archivo" type="s:base64Binary" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ComandoTimbradoLote">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="correo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pass" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Commando" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="PID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ComandoTimbradoLoteResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ComandoTimbradoLoteResult" type="tns:resultadoloteprimario33" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="TimbrarPorTextoPrimario33SoapIn">
+    <wsdl:part name="parameters" element="tns:TimbrarPorTextoPrimario33" />
+  </wsdl:message>
+  <wsdl:message name="TimbrarPorTextoPrimario33SoapOut">
+    <wsdl:part name="parameters" element="tns:TimbrarPorTextoPrimario33Response" />
+  </wsdl:message>
+  <wsdl:message name="SellarTimbrarPorTextoPrimario33SoapIn">
+    <wsdl:part name="parameters" element="tns:SellarTimbrarPorTextoPrimario33" />
+  </wsdl:message>
+  <wsdl:message name="SellarTimbrarPorTextoPrimario33SoapOut">
+    <wsdl:part name="parameters" element="tns:SellarTimbrarPorTextoPrimario33Response" />
+  </wsdl:message>
+  <wsdl:message name="TimbrarPorLoteTextoPrimario33SoapIn">
+    <wsdl:part name="parameters" element="tns:TimbrarPorLoteTextoPrimario33" />
+  </wsdl:message>
+  <wsdl:message name="TimbrarPorLoteTextoPrimario33SoapOut">
+    <wsdl:part name="parameters" element="tns:TimbrarPorLoteTextoPrimario33Response" />
+  </wsdl:message>
+  <wsdl:message name="ComandoTimbradoLoteSoapIn">
+    <wsdl:part name="parameters" element="tns:ComandoTimbradoLote" />
+  </wsdl:message>
+  <wsdl:message name="ComandoTimbradoLoteSoapOut">
+    <wsdl:part name="parameters" element="tns:ComandoTimbradoLoteResponse" />
+  </wsdl:message>
+  <wsdl:portType name="wsTimbradoTextoPrimario33Soap">
+    <wsdl:operation name="TimbrarPorTextoPrimario33">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Timbra el TXT v3.3,Los archivos CER y KEY deben estar configurados en el portal Web </wsdl:documentation>
+      <wsdl:input message="tns:TimbrarPorTextoPrimario33SoapIn" />
+      <wsdl:output message="tns:TimbrarPorTextoPrimario33SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SellarTimbrarPorTextoPrimario33">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Sellar y Timbra el TXT v3.3,Los archivos CER y KEY se mandan como parametros de este Metodo </wsdl:documentation>
+      <wsdl:input message="tns:SellarTimbrarPorTextoPrimario33SoapIn" />
+      <wsdl:output message="tns:SellarTimbrarPorTextoPrimario33SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="TimbrarPorLoteTextoPrimario33">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Timbra el archivo TXT que contiene los cfdi v3.3,Los archivos CER y KEY deben estar configurados en el portal Web </wsdl:documentation>
+      <wsdl:input message="tns:TimbrarPorLoteTextoPrimario33SoapIn" />
+      <wsdl:output message="tns:TimbrarPorLoteTextoPrimario33SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ComandoTimbradoLote">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Ejecuta un comando para el proceso de timbrado por lot</wsdl:documentation>
+      <wsdl:input message="tns:ComandoTimbradoLoteSoapIn" />
+      <wsdl:output message="tns:ComandoTimbradoLoteSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsTimbradoTextoPrimario33Soap" type="tns:wsTimbradoTextoPrimario33Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TimbrarPorTextoPrimario33">
+      <soap:operation soapAction="www.facturaselectronicascfdi.com/TimbrarPorTextoPrimario33" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SellarTimbrarPorTextoPrimario33">
+      <soap:operation soapAction="www.facturaselectronicascfdi.com/SellarTimbrarPorTextoPrimario33" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimbrarPorLoteTextoPrimario33">
+      <soap:operation soapAction="www.facturaselectronicascfdi.com/TimbrarPorLoteTextoPrimario33" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ComandoTimbradoLote">
+      <soap:operation soapAction="www.facturaselectronicascfdi.com/ComandoTimbradoLote" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsTimbradoTextoPrimario33Soap12" type="tns:wsTimbradoTextoPrimario33Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TimbrarPorTextoPrimario33">
+      <soap12:operation soapAction="www.facturaselectronicascfdi.com/TimbrarPorTextoPrimario33" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SellarTimbrarPorTextoPrimario33">
+      <soap12:operation soapAction="www.facturaselectronicascfdi.com/SellarTimbrarPorTextoPrimario33" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TimbrarPorLoteTextoPrimario33">
+      <soap12:operation soapAction="www.facturaselectronicascfdi.com/TimbrarPorLoteTextoPrimario33" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ComandoTimbradoLote">
+      <soap12:operation soapAction="www.facturaselectronicascfdi.com/ComandoTimbradoLote" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsTimbradoTextoPrimario33">
+    <wsdl:port name="wsTimbradoTextoPrimario33Soap" binding="tns:wsTimbradoTextoPrimario33Soap">
+      <soap:address location="http://sppruebas.facturaselectronicascfdi.com/wsTimbradoTextoPrimario33.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsTimbradoTextoPrimario33Soap12" binding="tns:wsTimbradoTextoPrimario33Soap12">
+      <soap12:address location="http://sppruebas.facturaselectronicascfdi.com/wsTimbradoTextoPrimario33.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

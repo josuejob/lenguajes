@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s1="http://cfdi.ws2.facturehoy.certus.com/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:import namespace="http://cfdi.ws2.facturehoy.certus.com/" />
+      <s:element name="sellar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="curCorreo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="KeyFile" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="PassCsd" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CerFile" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="xml" type="s:base64Binary" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sellarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sellarResult" type="tns:resultado" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="resultado">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="sello" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="errores" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="xmlSellado" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="acuse" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="arrayFolios" type="tns:ArrayOfWsItemCancelacionObj" />
+          <s:element minOccurs="0" maxOccurs="1" name="arregloAcuse" type="tns:ArrayOfBase64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="cadenaOriginal" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="fechaHoraTimbrado" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="fechaHoraTimbradoSpecified" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="folioUUID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PDF" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="selloDigitalEmisor" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="selloDigitalTimbreSAT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:base64Binary" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfWsItemCancelacionObj">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="wsItemCancelacionObj" nillable="true" type="s1:wsItemCancelacionObj" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfBase64Binary">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="base64Binary" nillable="true" type="s:base64Binary" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="timbrar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="curCorreo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="xml" type="s:base64Binary" />
+            <s:element minOccurs="1" maxOccurs="1" name="pdf" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="ambiente" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tipoTim" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="conexion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="timbrarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="timbrarResult" type="tns:resultado" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="cancelar">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="curCorreo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UUID" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="KeyEncode" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="cancelarResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cancelarResult" type="tns:resultado" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="recuperarAcuse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="curCorreo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UUID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="recuperarAcuseResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="recuperarAcuseResult" type="tns:resultado" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RecuperarAcuseCancelacion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="curCorreo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UUID" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="RecuperarAcuseCancelacionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="RecuperarAcuseCancelacionResult" type="tns:resultado" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://cfdi.ws2.facturehoy.certus.com/">
+      <s:complexType name="wsItemCancelacionObj">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" form="unqualified" name="estatus" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" form="unqualified" name="UUID" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="sellarSoapIn">
+    <wsdl:part name="parameters" element="tns:sellar" />
+  </wsdl:message>
+  <wsdl:message name="sellarSoapOut">
+    <wsdl:part name="parameters" element="tns:sellarResponse" />
+  </wsdl:message>
+  <wsdl:message name="timbrarSoapIn">
+    <wsdl:part name="parameters" element="tns:timbrar" />
+  </wsdl:message>
+  <wsdl:message name="timbrarSoapOut">
+    <wsdl:part name="parameters" element="tns:timbrarResponse" />
+  </wsdl:message>
+  <wsdl:message name="cancelarSoapIn">
+    <wsdl:part name="parameters" element="tns:cancelar" />
+  </wsdl:message>
+  <wsdl:message name="cancelarSoapOut">
+    <wsdl:part name="parameters" element="tns:cancelarResponse" />
+  </wsdl:message>
+  <wsdl:message name="recuperarAcuseSoapIn">
+    <wsdl:part name="parameters" element="tns:recuperarAcuse" />
+  </wsdl:message>
+  <wsdl:message name="recuperarAcuseSoapOut">
+    <wsdl:part name="parameters" element="tns:recuperarAcuseResponse" />
+  </wsdl:message>
+  <wsdl:message name="RecuperarAcuseCancelacionSoapIn">
+    <wsdl:part name="parameters" element="tns:RecuperarAcuseCancelacion" />
+  </wsdl:message>
+  <wsdl:message name="RecuperarAcuseCancelacionSoapOut">
+    <wsdl:part name="parameters" element="tns:RecuperarAcuseCancelacionResponse" />
+  </wsdl:message>
+  <wsdl:portType name="wsTimbradoSoap">
+    <wsdl:operation name="sellar">
+      <wsdl:input message="tns:sellarSoapIn" />
+      <wsdl:output message="tns:sellarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="timbrar">
+      <wsdl:input message="tns:timbrarSoapIn" />
+      <wsdl:output message="tns:timbrarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="cancelar">
+      <wsdl:input message="tns:cancelarSoapIn" />
+      <wsdl:output message="tns:cancelarSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="recuperarAcuse">
+      <wsdl:input message="tns:recuperarAcuseSoapIn" />
+      <wsdl:output message="tns:recuperarAcuseSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="RecuperarAcuseCancelacion">
+      <wsdl:input message="tns:RecuperarAcuseCancelacionSoapIn" />
+      <wsdl:output message="tns:RecuperarAcuseCancelacionSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsTimbradoSoap" type="tns:wsTimbradoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="sellar">
+      <soap:operation soapAction="http://tempuri.org/sellar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="timbrar">
+      <soap:operation soapAction="http://tempuri.org/timbrar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cancelar">
+      <soap:operation soapAction="http://tempuri.org/cancelar" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recuperarAcuse">
+      <soap:operation soapAction="http://tempuri.org/recuperarAcuse" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RecuperarAcuseCancelacion">
+      <soap:operation soapAction="http://tempuri.org/RecuperarAcuseCancelacion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsTimbradoSoap12" type="tns:wsTimbradoSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="sellar">
+      <soap12:operation soapAction="http://tempuri.org/sellar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="timbrar">
+      <soap12:operation soapAction="http://tempuri.org/timbrar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cancelar">
+      <soap12:operation soapAction="http://tempuri.org/cancelar" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="recuperarAcuse">
+      <soap12:operation soapAction="http://tempuri.org/recuperarAcuse" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RecuperarAcuseCancelacion">
+      <soap12:operation soapAction="http://tempuri.org/RecuperarAcuseCancelacion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsTimbrado">
+    <wsdl:port name="wsTimbradoSoap" binding="tns:wsTimbradoSoap">
+      <soap:address location="http://www.facturaselectronicascfdi.com/wsTimbrado.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsTimbradoSoap12" binding="tns:wsTimbradoSoap12">
+      <soap12:address location="http://www.facturaselectronicascfdi.com/wsTimbrado.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

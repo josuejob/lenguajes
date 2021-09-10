@@ -1,0 +1,4 @@
+En caso de que no se ejecute el programa, Verificar el firewall y el antivirus este desactivado o no lo bloque
+Registrar las dll que necesita el programa
+En caso que presente problemas debido a estar operando en un SO de 64 bits, 
+	registre las dll en syswow64 dentro de la carpeta de windows

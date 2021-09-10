@@ -1,0 +1,151 @@
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\Cli_WS_VB\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\WEBSERVICE\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\REALIZADO\ClienteWebServiceVBEjemplo\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WindowsApplication1clienteTimbradoVB\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ventas4\Desktop\Emmanuel\DESAROLLOS\WEBSERVICE\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\ERP\WEBSERVICE\3.3\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\factura\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\CFDI\OPERS\TIM\3.3\ERP\WS\TXT\factura\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\USUARIO\Desktop\CFDI\OPERS\TIM\3.3\ERP\WS\TXT\factura\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERS\TIM\3.3\ERP\WS\TXT\factura\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\USUARIO\Desktop\CFDI\OPERS\TIM\3.3\ERP\WS\TXT\factura\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

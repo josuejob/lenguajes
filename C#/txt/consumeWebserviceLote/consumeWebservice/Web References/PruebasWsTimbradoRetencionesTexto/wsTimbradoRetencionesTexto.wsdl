@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="www.facturaselectronicascfdi.com" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="www.facturaselectronicascfdi.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="www.facturaselectronicascfdi.com">
+      <s:element name="TimbrarRetencionPorTexto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="correo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pass" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Proceso" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contenidoArchivo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TimbrarRetencionPorTextoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TimbrarRetencionPorTextoResult" type="tns:resultadoRetencion" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="resultadoRetencion">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="sello" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="errores" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="xmlSellado" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="acuse" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="arregloAcuse" type="tns:ArrayOfBase64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="cadenaOriginal" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="fechaHoraTimbrado" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="fechaHoraTimbradoSpecified" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="folioUUID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PDF" type="s:base64Binary" />
+          <s:element minOccurs="0" maxOccurs="1" name="selloDigitalEmisor" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="selloDigitalTimbreSAT" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="XML" type="s:base64Binary" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfBase64Binary">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="base64Binary" nillable="true" type="s:base64Binary" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SellarTimbrarRetencionPorTexto">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="correo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pass" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Proceso" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="contenidoArchivo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cerFile" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="keyFile" type="s:base64Binary" />
+            <s:element minOccurs="0" maxOccurs="1" name="passCer" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SellarTimbrarRetencionPorTextoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SellarTimbrarRetencionPorTextoResult" type="tns:resultadoRetencion" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="TimbrarRetencionPorTextoSoapIn">
+    <wsdl:part name="parameters" element="tns:TimbrarRetencionPorTexto" />
+  </wsdl:message>
+  <wsdl:message name="TimbrarRetencionPorTextoSoapOut">
+    <wsdl:part name="parameters" element="tns:TimbrarRetencionPorTextoResponse" />
+  </wsdl:message>
+  <wsdl:message name="SellarTimbrarRetencionPorTextoSoapIn">
+    <wsdl:part name="parameters" element="tns:SellarTimbrarRetencionPorTexto" />
+  </wsdl:message>
+  <wsdl:message name="SellarTimbrarRetencionPorTextoSoapOut">
+    <wsdl:part name="parameters" element="tns:SellarTimbrarRetencionPorTextoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="wsTimbradoRetencionesTextoSoap">
+    <wsdl:operation name="TimbrarRetencionPorTexto">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Timbra el TXT de Retenciones,Los archivos CER y KEY deben estar configurados en el portal Web </wsdl:documentation>
+      <wsdl:input message="tns:TimbrarRetencionPorTextoSoapIn" />
+      <wsdl:output message="tns:TimbrarRetencionPorTextoSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SellarTimbrarRetencionPorTexto">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Sellar y Timbra el TXT de Retencions,Los archivos CER y KEY se mandan como parametros de este Metodo </wsdl:documentation>
+      <wsdl:input message="tns:SellarTimbrarRetencionPorTextoSoapIn" />
+      <wsdl:output message="tns:SellarTimbrarRetencionPorTextoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsTimbradoRetencionesTextoSoap" type="tns:wsTimbradoRetencionesTextoSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TimbrarRetencionPorTexto">
+      <soap:operation soapAction="www.facturaselectronicascfdi.com/TimbrarRetencionPorTexto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SellarTimbrarRetencionPorTexto">
+      <soap:operation soapAction="www.facturaselectronicascfdi.com/SellarTimbrarRetencionPorTexto" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="wsTimbradoRetencionesTextoSoap12" type="tns:wsTimbradoRetencionesTextoSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="TimbrarRetencionPorTexto">
+      <soap12:operation soapAction="www.facturaselectronicascfdi.com/TimbrarRetencionPorTexto" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SellarTimbrarRetencionPorTexto">
+      <soap12:operation soapAction="www.facturaselectronicascfdi.com/SellarTimbrarRetencionPorTexto" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsTimbradoRetencionesTexto">
+    <wsdl:port name="wsTimbradoRetencionesTextoSoap" binding="tns:wsTimbradoRetencionesTextoSoap">
+      <soap:address location="http://localhost:53723/wsTimbradoRetencionesTexto.asmx" />
+    </wsdl:port>
+    <wsdl:port name="wsTimbradoRetencionesTextoSoap12" binding="tns:wsTimbradoRetencionesTextoSoap12">
+      <soap12:address location="http://localhost:53723/wsTimbradoRetencionesTexto.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

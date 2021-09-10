@@ -1,0 +1,144 @@
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\csc.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\WebApplication1.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\WebApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\WebApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_2Nomina\DocNomina12_comp32\WSClientNT\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\csc.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\WebApplication1.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\WebApplication1.pdb
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\WebApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\ventas3\Documents\Visual Studio 2015\1-Everardo\1_DESARROLLANDO\1_NominaTexto\3_3Nomina\WSClientNT\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\csc.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\WebApplication1.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\WebApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\WebApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\WSClientNT\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\csc.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\WebApplication1.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\WebApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\WebApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\CLIENTE TIMBRADO NOMINA TEXTO\web\WSClientNT\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\csc.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\WebApplication1.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\WebApplication1.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\WebApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\WEBSERVICE\timbrado desde texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\csc.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\WebApplication1.dll
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\WebApplication1.pdb
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\WebApplication1.xml
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.xml
+C:\Users\USUARIO\Desktop\CFDI\OPERACIONES\TIMBRADO\3.3\ERP\WEBSERVICE\timbrado desde archivo texto\nomina\web\WebApplication1\obj\Debug\WebApplication1.pdb

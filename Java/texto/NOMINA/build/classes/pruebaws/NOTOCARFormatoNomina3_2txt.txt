@@ -1,0 +1,35 @@
+[COMPROBANTE]|Moneda(MXN)|TipoCambio(1)|SubTotal|Descuento|Total|LugarExpedicion(codigopostal)|folio|serie
+[EMISOR]|Rfc|Nombre|Curp(en caso de que la longitud de rfc sea 13 si no no debe existir)
+REGIMENFISCAL|regimen
+[FINEMISOR]
+RECEPTOR|rfc(debe ser personafisica)|talvezNOMBRE
+CONCEPTO|importe
+[NOMINA]|TipoNomina|FechaPago|FechaInicialPago|FechaFinalPago|NumDiasPagados|TotalPercepciones|TotalDeducciones|TotalOtrosPagos
+[EMISOR]|Curp|RegistroPatronal|RfcPatronOrigen
+ENTIDADSNCF|OrigenRecurso|MontoRecursoPropio
+[FINEMISOR]
+[RECEPTOR]|Curp|NumSeguridadSocial|FechaInicioRelLaboral|TipoContrato|Sindicalizado|TipoJornada|TipoRegimen|NumEmpleado|Departamento|Puesto|RiesgoPuesto|PeriodicidadPago|Banco|CuentaBancaria|SalarioBaseCotApor|SalarioDiarioIntegrado|ClaveEntFed
+SUBCONTRATACION|RfcLabora|PorcentajeTiempo
+[FINRECEPTOR]
+[PERCEPCIONES]|TotalSueldos|TotalSeparacionIndemnizacion|TotalJubilacionPensionRetiro|TotalGravado|TotalExento
+[PERCEPCION]|TipoPercepcion|Clave|Concepto|ImporteGravado|ImporteExento
+ACCIONESOTITULOS|ValorMercado|PrecioAlOtorgarse
+HORASEXTRA|Dias|TipoHoras|HorasExtra|ImportePagado
+[FINPERCEPCION]
+JUBILACIONPENSIONRETIRO|TotalUnaExhibicion|TotalParcialidad|MontoDiario|IngresoAcumulable|IngresoNoAcumulable
+SEPARACIONINDEMNIZACION|TotalPagado|NumAñosServicio|UltimoSueldoMensOrd|IngresoAcumulable|IngresoNoAcumulable
+[FINPERCEPCIONES]
+[DEDUCCIONES]|TotalOtrasDeducciones|TotalImpuestosRetenidos
+DEDUCCION|TipoDeduccion|Clave|Concepto|Importe
+[FINDEDUCCIONES]
+[OTROSPAGOS]
+[OTROPAGO]|TipoOtroPago|Clave|Concepto|Importe
+SUBSIDIOALEMPLEO|SubsidioCausado
+COMPENSACIONSALDOSAFAVOR|SubsidioCausado|Año|RemanenteSalFav
+[FINOTROPAGO]
+[FINOTROSPAGOS]
+[INCAPACIDADES]
+INCAPACIDAD|DiasIncapacidad|TipoIncapacidad|ImporteMonetario
+[FININCAPACIDADES]
+[FINNOMINA]
+[FINCOMPROBANTE]

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.facturaselectronicascfdi.com/wsTimbrado.asmx" uri="wsdl/www.facturaselectronicascfdi.com/wsTimbrado.asmx"/>
+    <system systemId="http://www.facturaselectronicascfdi.com/wsTimbrado.asmx?WSDL" uri="wsdl/www.facturaselectronicascfdi.com/wsTimbrado.asmx.wsdl"/>
+    <system systemId="https://sistema.facturaselectronicascfdi.com/wsTimbradoTexto.asmx" uri="wsdl/sistema.facturaselectronicascfdi.com/wsTimbradoTexto.asmx"/>
+    <system systemId="https://sistema.facturaselectronicascfdi.com/wsTimbradoTexto.asmx?WSDL" uri="wsdl/sistema.facturaselectronicascfdi.com/wsTimbradoTexto.asmx.wsdl"/>
+</catalog>
